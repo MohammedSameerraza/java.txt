@@ -1,0 +1,15 @@
+pipeline {
+    agent any
+    stages {
+        stage('Build') { 
+            steps {
+                 echo 'Hello, Maven' 
+				 }
+        }
+        stage('Deploy') {
+		     steps {
+                echo 'this is deploy stage'
+            }
+		}
+    }
+}
