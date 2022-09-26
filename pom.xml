@@ -6,6 +6,7 @@
   <packaging>war</packaging>
   <name>WAR Web Project</name>
   <description>A very simple Maven-enabled WAR web project</description>
+  <!--demo on github -->
   <dependencies>
   	<dependency>
   		<groupId>com.google.code.gson</groupId>
