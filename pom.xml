@@ -13,7 +13,7 @@
   		<groupId>com.google.code.gson</groupId>
   		<artifactId>gson</artifactId>
   		<version>2.3.1</version>
-      <!-- demo on github github --!>
+      <!-- demo on github  -->
   	</dependency>
   	<dependency>
   		<groupId>javax.ws.rs</groupId>
