@@ -7,6 +7,7 @@
   <name>WAR Web Project</name>
   <description>A very simple Maven-enabled WAR web project</description>
   <!--demo on github -->
+  <!--demo on a github -->
   <dependencies>
   	<dependency>
       
